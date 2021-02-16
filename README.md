@@ -1,6 +1,7 @@
-# Управление интернет-магазином 1С UIM для 1С Управление торговлей 11.2
+# Online store management 1C UIM for 1C Trade management 11.2
 
-Текущая версия - 1.3.0.1
-- BugFix - отправкой информации по Производителям, доп картинки и права на папку при установке.
+Current version - 1.3.0.1
+- BugFix - sending information on Manufacturers, additional pictures and rights to the folder during installation.
 
-Последний тест на ocStore 2.1.0.2.1 и OpenCart 2.1.x
+Latest test on ocStore 2.1.0.2.1 and OpenCart 2.1.x 
+
